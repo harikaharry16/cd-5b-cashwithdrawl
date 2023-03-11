@@ -1,0 +1,15 @@
+/* Write your CSS here */
+
+.val {
+  background-color: #585076;
+  border-style: solid;
+  border-radius: 15px;
+  border-color: #d4d2db;
+  height: 45px;
+  width: 200px;
+  color: #d4d2db;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  margin: 15px;
+}
